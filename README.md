@@ -19,8 +19,16 @@ Course overview and teaching materials for **Practical Web Development** at Hunt
 
 ## Write — Research & Applied AI
 
+### Whitepapers
+
 ### [Why Productivity AI Is Not Enough for Enterprise ROI](https://github.com/johnnylaicode/why-productivity-ai-is-not-enough-for-enterprise-roi)
 A whitepaper examining why improvements in individual AI-assisted tasks do not automatically translate into enterprise-level value, and why workflow-level design and measurement matter.
+
+### Commentary
+
+### [As Voice Becomes Infrastructure, Workflow Becomes the Differentiator](https://github.com/johnnylaicode/voice-infrastructure-workflow-differentiator)
+
+An industry and technology commentary examining the evolution of AI-enabled voice in healthcare communications and why workflow integration, orchestration, and execution are becoming important sources of differentiation.
 
 ## Other Repositories
 
