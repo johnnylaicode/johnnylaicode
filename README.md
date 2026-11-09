@@ -24,6 +24,9 @@ Course overview and teaching materials for **Practical Web Development** at Hunt
 ### [Why Productivity AI Is Not Enough for Enterprise ROI](https://github.com/johnnylaicode/why-productivity-ai-is-not-enough-for-enterprise-roi)
 A whitepaper examining why improvements in individual AI-assisted tasks do not automatically translate into enterprise-level value, and why workflow-level design and measurement matter.
 
+### [AI Reliability as Systems Architecture](https://github.com/johnnylaicode/ai-reliability-as-systems-architecture)
+A systems-oriented framework for designing reliable AI-enabled applications, treating reliability as a property of the complete system rather than the model alone. The framework connects operating boundaries, reliability requirements, architectural controls, human responsibility, recovery, and operational evidence.
+
 ### Commentary
 
 ### [As Voice Becomes Infrastructure, Workflow Becomes the Differentiator](https://github.com/johnnylaicode/voice-infrastructure-workflow-differentiator)
